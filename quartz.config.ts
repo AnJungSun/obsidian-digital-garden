@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ko-KR",
-    baseUrl: "ai-obsidian.vercel.app",
+    baseUrl: "anjungsun.github.io/obsidian-digital-garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
